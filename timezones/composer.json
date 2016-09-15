@@ -1,0 +1,14 @@
+{
+    "name": "hirarky/timezones",
+    "description": "simple time plugin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TFA",
+            "email": "rizwan@hirarky.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
