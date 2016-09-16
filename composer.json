@@ -1,6 +1,6 @@
 {
-    "name": "hirarky/timezones",
-    "description": "basic timezones plugin",
+    "name": "myhirarky/mytimezones",
+    "description": "time plugin",
     "type": "library",
     "license": "MIT",
     "authors": [
